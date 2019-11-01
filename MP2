@@ -1,0 +1,5 @@
+Encoding and decoding have problems when it comes to different web pages,
+this is because there are characters that are not included in ASCII table 
+
+Did not try using a browser.
+
